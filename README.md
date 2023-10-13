@@ -1,10 +1,49 @@
-- 👋 Hi, I’m Panagiotis Moschos.
-- 👀 I’m interested in Artificial Intelligence and Mobile Apps.
-- 🌱 I’m currently developing an Augmented Reality mobile app.
-- 💞️ I’m looking to collaborate... 
-- 📫 Reach me at: pan.moschos86@gmail.com
+# 👋 Hello, World! I'm Panagiotis Moschos 👨‍💻
 
-<!---
-pmoschos/pmoschos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="your-profile-picture-or-banner-image-link-here" alt="Banner" width="600" height="auto">
+</p>
+
+---
+
+## 🌟 About Me
+
+- 👀 **Interests:** Artificial Intelligence 🤖 | Mobile App Development 📱
+- 🌱 **Currently Working On:** An Augmented Reality Mobile App 🌐
+- 💞️ **Open For Collaboration:** Yes, feel free to reach out! 🤝
+- 📫 **Contact:** [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
+- 🌐 **Portfolio:** ... (#)
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** C, C++,Java, Python, Dart 
+- **Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV
+- **Tools:** Git, Docker
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Your latest blog post here](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📞 Let's Connect!
+
+- LinkedIn: coming soon (#)
+- Twitter: coming soon (#)
+- GitHub: [pmoschos](https://github.com/pmoschos)
+
+<p align="center">
+  Made with ❤️ by [Panagiotis Moschos](https://github.com/pmoschos)
+</p>
