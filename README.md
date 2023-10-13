@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Panagiotis Moschos.
 - 👀 I’m interested in Artificial Intelligence and Mobile Apps.
 - 🌱 I’m currently developing an Augmented Reality mobile app.
-- 💞️ I’m looking to collaborate... with you.
+- 💞️ I’m looking to collaborate... 
 - 📫 Reach me at: pan.moschos86@gmail.com
 
 <!---
