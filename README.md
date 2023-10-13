@@ -1,7 +1,7 @@
 # 👋 Hello, World! I'm Panagiotis Moschos 👨‍💻
 
 <p align="center">
-  <img src="your-profile-picture-or-banner-image-link-here" alt="Banner" width="600" height="auto">
+  <img src="![Profile Image](PASTE_THE_COPIED_URL_HERE)" alt="Banner" width="600" height="auto">
 </p>
 
 ---
