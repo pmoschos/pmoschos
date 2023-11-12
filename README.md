@@ -21,6 +21,7 @@
 - **Languages:** C, C++,Java, Python, Dart 
 - **Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV
 - **Tools:** Git, Docker
+- **Favorite:** Android Development
 
 ---
 
