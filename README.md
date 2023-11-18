@@ -47,6 +47,12 @@
 
 ---
 
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmoschos&theme=nord_dark" alt="Language Summary" />
+</div>
+
+---
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
