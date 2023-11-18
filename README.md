@@ -10,7 +10,7 @@
 - ![Profile views](https://komarev.com/ghpvc/?username=pmoschos&color=blue)
 - 👀 **Interests:** Artificial Intelligence 🤖 | Mobile Application Development 📱
 - 🌱 **Currently Working On:** Augmented Reality Mobile Application using Flutter 🌐
-- 💞️ **Open For Collaboration:** Yes, feel free to reach out! 🤝
+- 💞️ **Open For Collaboration:** Feel free to reach out! 🤝
 - 📫 **Contact:** [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 - 🌐 **Portfolio:** ... (#)
 
