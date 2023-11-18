@@ -39,10 +39,10 @@
 ![Frontend Technologies](https://skillicons.dev/icons?i=css,html,js,ts,angular,bootstrap)
 
 ### 📱 Mobile and Full-stack Frameworks 🔗
-![Mobile and Full-stack Frameworks](https://skillicons.dev/icons?i=flutter,django,nodejs,spring)
+![Mobile and Full-stack Frameworks](https://skillicons.dev/icons?i=androidstudio,flutter,django,flask,nodejs,spring)
 
 ### 🖥️ Backend Development ☁️
-![Backend Technologies](https://skillicons.dev/icons?i=java,cpp,py,dart,hibernate)
+![Backend Technologies](https://skillicons.dev/icons?i=java,cpp,cs,py,dart,hibernate)
 
 ### 💾 Databases and Storage 🗄️
 ![Databases and Storage](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
@@ -51,7 +51,7 @@
 ![DevOps and Version Control](https://skillicons.dev/icons?i=docker,git,bash,gradle,maven)
 
 ### 🧠 AI, Machine Learning, and Additional Tools 🛠️
-![AI and Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,postman,cs,figma,flask,idea)
+![AI and Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,postman,figma,idea)
 
 
 ---
