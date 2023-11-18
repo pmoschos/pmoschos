@@ -50,18 +50,24 @@
 ---
 ## 🛠️ Extensive experience with
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,angular,bootstrap,flutter,md" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,c,py,js,nodejs,dart,docker,dotnet" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,firebase,git,bash,idea" />
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,gradle,maven,selenium,cs,figma,tensorflow,pytorch" />
-</a>
+## 🌐 Frontend Development 🔖
+![Frontend Technologies](https://skillicons.dev/icons?i=css,html,js,ts,angular,bootstrap)
+
+## 📱 Mobile and Full-stack Frameworks 🔗
+![Mobile and Full-stack Frameworks](https://skillicons.dev/icons?i=flutter,django,nodejs,spring)
+
+## 🖥️ Backend Development ☁️
+![Backend Technologies](https://skillicons.dev/icons?i=java,cpp,py,dart,hibernate)
+
+## 💾 Databases and Storage 🗄️
+![Databases and Storage](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
+
+## 🔧 DevOps and Version Control 🌿
+![DevOps and Version Control](https://skillicons.dev/icons?i=docker,git,bash,gradle,maven)
+
+## 🧠 AI, Machine Learning, and Additional Tools 🛠️
+![AI and Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,postman,cs,figma,flask,idea)
+
 
 ---
 
