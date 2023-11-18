@@ -1,24 +1,24 @@
 # 👋 Hello, World! I'm Panagiotis Moschos 👨‍💻
 
 <p align="center">
-  <img src="![Profile Image](PASTE_THE_COPIED_URL_HERE)" alt="Banner" width="600" height="auto">
+  <img src="https://github.com/pmoschos/pmoschos/assets/133533759/b5789ffd-9579-4fcd-8bf3-c0b230c1bda8" alt="Banner" width="100" height="auto">
 </p>
 
 ---
 
 ## 🌟 About Me
-
+- ![Profile views](https://komarev.com/ghpvc/?username=pmoschos&color=blue)
 - 👀 **Interests:** Artificial Intelligence 🤖 | Mobile App Development 📱
-- 🌱 **Currently Working On:** An Augmented Reality Mobile App 🌐
+- 🌱 **Currently Working On:** An Augmented Reality Mobile App using Flutter 🌐
 - 💞️ **Open For Collaboration:** Yes, feel free to reach out! 🤝
 - 📫 **Contact:** [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 - 🌐 **Portfolio:** ... (#)
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Favorite Technologies & Tools
 
-- **Languages:** C, C++,Java, Python, Dart 
+- **Languages:** Java, Python, Dart, C, C++
 - **Frameworks:** TensorFlow, PyTorch, Keras, scikit-learn, OpenCV
 - **Tools:** Git, Docker
 - **Favorite:** Android Development
@@ -28,6 +28,22 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
+
+---
+## 🛠️ Extensive experience with
+
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,angular,bootstrap,flutter,md" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,py,js,nodejs,dart,docker,dotnet" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,mysql,mongodb,firebase,git,bash,idea" />
+</a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,gradle,maven,selenium,cs,figma,tensorflow,pytorch" />
+</a>
 
 ---
 
