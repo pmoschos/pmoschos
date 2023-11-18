@@ -18,7 +18,7 @@
 
 ## 🛠️ Favorite Technologies & Tools
 
-#### Languages: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+#### Languages: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
 #### Frameworks:  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras) ![scikit-learn](https://img.shields.io/badge/-scikit_learn-F7931E?style=flat-square&logo=scikitlearn) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
 
