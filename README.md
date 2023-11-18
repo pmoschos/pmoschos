@@ -1,15 +1,15 @@
 # 👋 Hello, World! I'm Panagiotis Moschos 👨‍💻
 
 <p align="center">
-  <img src="https://github.com/pmoschos/pmoschos/assets/133533759/b5789ffd-9579-4fcd-8bf3-c0b230c1bda8" alt="Banner" width="100" height="auto">
+  <img src="https://github.com/pmoschos/pmoschos/assets/133533759/b5789ffd-9579-4fcd-8bf3-c0b230c1bda8" alt="Banner" width="99" height="auto">
 </p>
 
 ---
 
 ## 🌟 About Me
 - ![Profile views](https://komarev.com/ghpvc/?username=pmoschos&color=blue)
-- 👀 **Interests:** Artificial Intelligence 🤖 | Mobile App Development 📱
-- 🌱 **Currently Working On:** An Augmented Reality Mobile App using Flutter 🌐
+- 👀 **Interests:** Artificial Intelligence 🤖 | Mobile Application Development 📱
+- 🌱 **Currently Working On:** Augmented Reality Mobile Application using Flutter 🌐
 - 💞️ **Open For Collaboration:** Yes, feel free to reach out! 🤝
 - 📫 **Contact:** [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 - 🌐 **Portfolio:** ... (#)
