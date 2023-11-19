@@ -80,8 +80,8 @@
 
 - GitHub: [pmoschos](https://github.com/pmoschos)
 - E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
-- LinkedIn: coming soon (#)
-- Twitter: coming soon (#)
+<!-- - LinkedIn: coming soon (#) -->
+<!-- - Twitter: coming soon (#) -->
 
 <p align="center">
   Made with ❤️ by [Panagiotis Moschos](https://github.com/pmoschos)
