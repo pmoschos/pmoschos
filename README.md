@@ -63,14 +63,15 @@
 <!-- ## 🛠️ Extensive experience with -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmoschos) -->
 
+---
+
 ## :chart_with_upwards_trend: Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmoschos)
 
----
-## 📝 Latest Blog Posts
+<!-- ## 📝 Latest Blog Posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your latest blog post here](#)
+<!-- - [Your latest blog post here](#) -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
