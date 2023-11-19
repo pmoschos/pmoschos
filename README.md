@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Favorite Technologies & Tools
+## :heartpulse: Favorite Technologies & Tools 🛠️
 
 #### Languages: ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 
