@@ -55,13 +55,18 @@
 
 
 ---
-
-<div align="center">
+## :computer: Programming languages use
+<div align="left">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmoschos&theme=dracula" alt="Language Summary" />
 </div>
 
----
+<!-- ## 🛠️ Extensive experience with -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmoschos) -->
 
+## :chart_with_upwards_trend: Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmoschos)
+
+---
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -72,9 +77,10 @@
 
 ## 📞 Let's Connect!
 
+- GitHub: [pmoschos](https://github.com/pmoschos)
+- E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 - LinkedIn: coming soon (#)
 - Twitter: coming soon (#)
-- GitHub: [pmoschos](https://github.com/pmoschos)
 
 <p align="center">
   Made with ❤️ by [Panagiotis Moschos](https://github.com/pmoschos)
