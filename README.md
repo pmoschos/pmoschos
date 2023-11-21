@@ -83,6 +83,10 @@
 <!-- - LinkedIn: coming soon (#) -->
 <!-- - Twitter: coming soon (#) -->
 
+---
+
+<h1 align=center>Happy Coding 👨‍💻 </h1>
+
 <p align="center">
-  Made with ❤️ by [Panagiotis Moschos](https://github.com/pmoschos)
+  Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
 </p>
