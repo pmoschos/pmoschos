@@ -84,6 +84,11 @@
 <!-- - LinkedIn: coming soon (#) -->
 <!-- - Twitter: coming soon (#) -->
 
+## :page_facing_up: My QR Code!
+<p align="center">
+  <img src="https://github.com/pmoschos/pmoschos/assets/133533759/acb70138-29d7-44f3-8b14-513d594ee228" alt="QRCode">
+</p>
+
 ---
 
 <h1 align=center>Happy Coding 👨‍💻 </h1>
