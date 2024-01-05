@@ -98,7 +98,7 @@
 
 ## 📞 Let's Connect!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=E-mail:+pan.moschos86@gmail.com;GitHub:+pmoschos)](https://github.com/pmoschos)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=E-mail:+pan.moschos86@gmail.com;GitHub:+pmoschos)](https://github.com/pmoschos) -->
 
 - GitHub: [pmoschos](https://github.com/pmoschos)
 - E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
