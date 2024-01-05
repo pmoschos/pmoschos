@@ -1,5 +1,7 @@
 # 👋 Hello, World! I'm Panagiotis Moschos 👨‍💻
 
+[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/pmoschos)
+
 <p align="center">
   <!--<img src="https://github.com/pmoschos/pmoschos/assets/133533759/b5789ffd-9579-4fcd-8bf3-c0b230c1bda8" alt="Banner" width="99" height="auto">-->
 </p>
