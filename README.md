@@ -5,6 +5,7 @@
 </p>
 
 ---
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=Software+Engineer;Expertise:+Machine+Learning+with+Python;Favorite:+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android)](https://git.io/typing-svg)
 
 ## 🌟 About Me
 - ![Profile views](https://komarev.com/ghpvc/?username=pmoschos&color=blue)
