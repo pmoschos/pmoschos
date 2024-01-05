@@ -7,20 +7,31 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=Software+Engineer;Expertise:+Machine+Learning+with+Python;Favorite:+Mobile+Development+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" alt="Coding" width="400"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=pmoschos" alt="pmoschos"/>
+  </a>
+</p>
+
+
+
 ## 🌟 About Me
 - ![Profile views](https://komarev.com/ghpvc/?username=pmoschos&color=blue)
 - 👀 **Interests:** Artificial Intelligence 🤖 | Mobile Application Development 📱
-- 🌱 **Currently Working On:** Augmented Reality Mobile Application using Flutter 🌐
+- 🌱 **Currently Working On:** Augmented Reality Mobile App using Flutter 🌐
 - 💞️ **Open For Collaboration:** Feel free to reach out! 🤝
 - 📫 **Contact:** [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 - 🌐 **Portfolio:** ... (#)
 
----
 
 ## :heartpulse: Favorite Technologies & Tools 🛠️
 
 #### 💻 Languages
-| Python | Java | C++ | C# | Java | Dart | 
+| Python | Java | C++ | C# | Kotlin | Dart | 
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### 🧩 Frameworks
