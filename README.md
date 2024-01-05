@@ -9,8 +9,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=I+am+Software+Engineer;I+have+expertise+in+Machine+Learning;I+enjoy+developing+Mobile+Apps+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=E-mail:+pan.moschos86@gmail.com;GitHub:+pmoschos)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" alt="Coding" width="400"/>
 </p>
@@ -99,6 +97,8 @@
 ---
 
 ## 📞 Let's Connect!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=false&width=435&lines=E-mail:+pan.moschos86@gmail.com;GitHub:+pmoschos)](https://git.io/typing-svg)
 
 - GitHub: [pmoschos](https://github.com/pmoschos)
 - E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
