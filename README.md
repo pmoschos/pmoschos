@@ -74,6 +74,9 @@
 
 ## :computer: Programming languages usage
 
+<div align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmoschos&theme=dracula" alt="Language Summary" />
+</div>
 
 ---
 
