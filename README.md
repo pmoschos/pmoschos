@@ -27,20 +27,20 @@
 ## :heartpulse: Favorite Technologies & Tools 🛠️
 
 #### 💻 Languages
-| Python | Java | C++ | C# | Kotlin | Dart | 
+| [Python](https://www.python.org/) | [Java](https://www.java.com/) | [C++](https://isocpp.org/) | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) | [Kotlin](https://kotlinlang.org/) | [Dart](https://dart.dev/) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 
 #### 🧩 Frameworks
-| TensorFlow | PyTorch | Keras | scikit-learn | OpenCV |
+| [TensorFlow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/) | [Keras](https://keras.io/) | [scikit-learn](https://scikit-learn.org/) | [OpenCV](https://opencv.org/) |
 | :---: | :---: | :---: | :---: | :---: |
 
 #### 🛠️ Tools
-| Git | Docker | 
+| [Git](https://git-scm.com/) | [Docker](https://www.docker.com/) |
 | :---: | :---: |
 
 #### ⭐ Favorite
-| Android |
-| :---: |
+| [Android](https://developer.android.com/) | [VSCode](https://code.visualstudio.com/) | [Xcode](https://developer.apple.com/xcode/) |
+| :---: | :---: | :---: |
 
 ---
 
