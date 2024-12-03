@@ -87,6 +87,7 @@
 
 ## 📞 Let's Connect!
 
+- Linkedin: [Panagiotis Moschos](href="https://www.linkedin.com/in/panagiotis-moschos")
 - GitHub: [pmoschos](https://github.com/pmoschos)
 - E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 
@@ -97,8 +98,8 @@
 
 ---
 
-<h1 align="center">Happy Coding 👨‍💻 </h1>
+<h1 align="center">Happy Coding 👨‍💻</h1>
 
 <p align="center">
-  Made with ❤️ by Panagiotis Moschos ([GitHub](https://github.com/pmoschos))
+  Made with ❤️ by <a href="https://www.linkedin.com/in/panagiotis-moschos">Panagiotis Moschos</a> (<a href="https://github.com/pmoschos">GitHub</a>)
 </p>
