@@ -87,7 +87,7 @@
 
 ## 📞 Let's Connect!
 
-- Linkedin: [Panagiotis Moschos](href="https://www.linkedin.com/in/panagiotis-moschos")
+- Linkedin: [Panagiotis Moschos](https://www.linkedin.com/in/panagiotis-moschos)
 - GitHub: [pmoschos](https://github.com/pmoschos)
 - E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
 
