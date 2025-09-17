@@ -47,7 +47,7 @@
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Extensive experience with
@@ -82,7 +82,6 @@
 
 ## :chart_with_upwards_trend: Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmoschos)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ---
 
 ## 📞 Let's Connect!
