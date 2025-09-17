@@ -82,7 +82,7 @@
 
 ## :chart_with_upwards_trend: Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmoschos)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ---
 
 ## 📞 Let's Connect!
