@@ -46,8 +46,7 @@
 
 ## 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
 ---
 
 ## 🛠️ Extensive experience with
