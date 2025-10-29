@@ -1,103 +1,121 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, World! I'm Panagiotis Moschos 👨‍💻
-
-[![GitHub Banner](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/pmoschos)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&pause=1000&color=0100F7&center=true&width=435&lines=I+am+Software+Engineer;I+have+expertise+in+Machine+Learning;I+enjoy+developing+Mobile+Apps+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Flutter+%7C+Android">
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> 
+  Hello, World! I'm <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank">Panagiotis Moschos</a> 👨‍💻
+</h1>
 
 <p align="center">
-  <img src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format" alt="Coding" width="400"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pmoschos" alt="pmoschos"/>
+  <a href="https://github.com/pmoschos">
+    <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="100%" alt="GitHub Banner"/>
   </a>
 </p>
 
-## 🌟 About Me
-- ![Profile views](https://komarev.com/ghpvc/?username=pmoschos&color=blue)
-- 👀 **Interests:** Artificial Intelligence 🤖 | Mobile Application Development 📱
-- 🌱 **Currently Working On:** Augmented Reality Mobile App using Flutter 🌐
-- 💞️ **Open For Collaboration:** Feel free to reach out! 🤝
-- 📫 **Contact:** [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
-- 🌐 **Portfolio:** ... (#)
-
-## :heartpulse: Favorite Technologies & Tools 🛠️
-
-#### 💻 Languages
-| [Python](https://www.python.org/) | [Java](https://www.java.com/) | [C++](https://isocpp.org/) | [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) | [Kotlin](https://kotlinlang.org/) | [Dart](https://dart.dev/) |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-
-#### 🧩 Frameworks
-| [TensorFlow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/) | [Keras](https://keras.io/) | [scikit-learn](https://scikit-learn.org/) | [OpenCV](https://opencv.org/) |
-| :---: | :---: | :---: | :---: | :---: |
-
-#### 🛠️ Tools
-| [Git](https://git-scm.com/) | [Docker](https://www.docker.com/) |
-| :---: | :---: |
-
-#### ⭐ Favorite
-| [Android](https://developer.android.com/) | [VSCode](https://code.visualstudio.com/) | [Xcode](https://developer.apple.com/xcode/) |
-| :---: | :---: | :---: |
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical)
----
-
-## 🛠️ Extensive experience with
-
-### 🌐 Frontend Development 🔖
-![Frontend Technologies](https://skillicons.dev/icons?i=css,html,js,ts,angular,bootstrap)
-
-### 📱 Mobile and Full-stack Frameworks 🔗
-![Mobile and Full-stack Frameworks](https://skillicons.dev/icons?i=androidstudio,flutter,django,flask,nodejs,spring)
-
-### 🖥️ Backend Development ☁️
-![Backend Technologies](https://skillicons.dev/icons?i=java,cpp,cs,py,dart,hibernate)
-
-### 💾 Databases and Storage 🗄️
-![Databases and Storage](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
-
-### 🔧 DevOps and Version Control 🌿
-![DevOps and Version Control](https://skillicons.dev/icons?i=docker,git,bash,gradle,maven)
-
-### 🧠 AI, Machine Learning, and Additional Tools 🛠️
-![AI and Machine Learning](https://skillicons.dev/icons?i=tensorflow,pytorch,postman,figma,idea)
-
----
-
-## :computer: Programming languages usage
-
-<div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pmoschos&theme=dracula" alt="Language Summary" />
-</div>
-
----
-
-## :chart_with_upwards_trend: Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pmoschos)
----
-
-## 📞 Let's Connect!
-
-- Linkedin: [Panagiotis Moschos](https://www.linkedin.com/in/panagiotis-moschos)
-- GitHub: [pmoschos](https://github.com/pmoschos)
-- E-mail: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)
-
-## :page_facing_up: My QR Code!
 <p align="center">
-  <img src="https://github.com/pmoschos/pmoschos/assets/133533759/acb70138-29d7-44f3-8b14-513d594ee228" alt="QRCode">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=500&lines=Software+Engineer;AI+%26+Machine+Learning+Expert;Mobile+App+Developer;Lifelong+Learner+💡" alt="Typing Animation" />
 </p>
 
 ---
 
-<h1 align="center">Happy Coding 👨‍💻</h1>
+## 🌟 About Me
+
+💬 Passionate about **Software Engineering**, **AI**, and **Mobile App Development**.  
+🌱 Currently developing an **Augmented Reality Flutter App**.  
+🤝 Open to **collaborations** on impactful software and AI projects.  
+📫 Reach me at: [pan.moschos86@gmail.com](mailto:pan.moschos86@gmail.com)  
+🌐 Portfolio: *(coming soon)*  
 
 <p align="center">
-  Made with ❤️ by <a href="https://www.linkedin.com/in/panagiotis-moschos">Panagiotis Moschos</a> (<a href="https://github.com/pmoschos">GitHub</a>)
+  <img src="https://komarev.com/ghpvc/?username=pmoschos&label=Profile+Views&color=blue&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/pmoschos?label=Followers&style=for-the-badge&color=brightgreen"/>
+  <img src="https://img.shields.io/github/stars/pmoschos?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+</p>
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
+
+### 🧩 Frameworks & Libraries
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-27338e?style=flat-square&logo=opencv)
+
+### 📱 Mobile & Web
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+
+### 💾 Databases & Cloud
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+
+### 🧰 Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pmoschos&show_icons=true&theme=radical&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmoschos&layout=compact&theme=radical" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pmoschos&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pmoschos&theme=tokyonight&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💡 Featured Interests
+
+| 🔬 Artificial Intelligence | 📱 Mobile Apps | ☁️ Cloud Systems | 🧠 Machine Learning | 🧩 System Design |
+| :---: | :---: | :---: | :---: | :---: |
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/panagiotis-moschos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pan.moschos86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/pmoschos"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## :page_facing_up: My QR Code
+<p align="center">
+  <img src="https://github.com/pmoschos/pmoschos/assets/133533759/acb70138-29d7-44f3-8b14-513d594ee228" width="160" alt="QRCode">
+</p>
+
+---
+
+<h2 align="center">💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House</h2>
+
+<p align="center">
+  <i>Made with ❤️ by <a href="https://github.com/pmoschos">Panagiotis Moschos</a></i>
 </p>
