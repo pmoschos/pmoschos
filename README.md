@@ -45,7 +45,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 </p>
 
-<h2 align="center">🏗️ Advanced AI Engineer & AI Architect</h2>
+<h2 align="center">🏗️ AI Engineer & AI Architect</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=800&color=9B5DE5&center=true&vCenter=true&random=false&width=700&lines=Designing+Intelligent+Architectures+That+Think%2C+Plan+%26+Act" alt="AI Typing"/>
