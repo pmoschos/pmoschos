@@ -140,30 +140,7 @@ These systems enable the creation of **autonomous AI platforms** that can analyz
 <summary>🏛️ <b>System Architecture Overview</b></summary>
 <br>
 
-```
-                        ┌──────────────────────────────────────────┐
-                        │           AI ARCHITECT LAYER             │
-                        │   Design · Strategy · System Thinking    │
-                        └────────────────────┬─────────────────────┘
-                                             │
-              ┌──────────────────────────────┼──────────────────────────────┐
-              │                              │                              │
-   ┌──────────▼──────────┐       ┌───────────▼──────────┐       ┌───────────▼──────────┐
-   │   LLM ENGINEERING   │       │    AGENT SYSTEMS     │       │    KNOWLEDGE LAYER   │
-   │                     │       │                      │       │                      │
-   │  • Fine-Tuning      │       │  • Autonomous Agents │       │  • RAG Pipelines     │
-   │  • Prompt Design    │◄─────►│  • Multi-Agent Arch  │◄─────►│  • Vector Search     │
-   │  • Model Evaluation │       │  • Tool Integration  │       │  • Semantic Indexing │
-   │  • Context Mgmt     │       │  • Orchestration     │       │  • Knowledge Graphs  │
-   └──────────┬──────────┘       └───────────┬──────────┘       └───────────┬──────────┘
-              │                              │                              │
-              └──────────────────────────────┼──────────────────────────────┘
-                                             │
-                        ┌────────────────────▼─────────────────────┐
-                        │           AI INFRASTRUCTURE              │
-                        │  Pipelines · APIs · Scaling · Monitoring │
-                        └──────────────────────────────────────────┘
-```
+<img width="1455" height="802" alt="image" src="https://github.com/user-attachments/assets/1b34b5ae-dce5-43c3-b146-5d3e5954bbec" />
 
 </details>
 
